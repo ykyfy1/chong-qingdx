@@ -1,0 +1,370 @@
+#EXTINF:-1 tvg-id="1" tvg-name="重庆影视" tvg-logo="https://live.fanmingming.com/tv/重庆影视.png" group-title="卫视高清",重庆影视
+http://125.80.157.63:7788/rtp/235.254.198.180:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆新闻" tvg-logo="https://live.fanmingming.com/tv/重庆新闻.png" group-title="卫视高清",重庆新闻
+http://125.80.157.63:7788/rtp/235.254.196.199:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆社会与法" tvg-logo="https://live.fanmingming.com/tv/重庆社会与法.png" group-title="卫视高清",重庆社会与法
+http://125.80.157.63:7788/rtp/235.254.198.181:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆少儿" tvg-logo="https://live.fanmingming.com/tv/重庆少儿.png" group-title="卫视高清",重庆少儿
+http://125.80.157.63:7788/rtp/235.254.196.214:1128
+#EXTINF:-1 tvg-id="1" tvg-name="重庆科教" tvg-logo="https://live.fanmingming.com/tv/重庆科教.png" group-title="卫视高清",重庆科教
+http://125.80.157.63:7788/rtp/235.254.196.215:1132
+#EXTINF:-1 tvg-id="1" tvg-name="重庆娱乐" tvg-logo="https://live.fanmingming.com/tv/重庆娱乐.png" group-title="卫视高清",重庆娱乐
+http://125.80.157.63:7788/rtp/235.254.198.187:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆时尚生活" tvg-logo="https://live.fanmingming.com/tv/重庆时尚生活.png" group-title="卫视高清",重庆时尚生活
+http://125.80.157.63:7788/rtp/235.254.198.182:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆农村" tvg-logo="https://live.fanmingming.com/tv/重庆农村.png" group-title="卫视高清",重庆农村
+http://125.80.157.63:7788/rtp/235.254.198.186:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆移动" tvg-logo="https://live.fanmingming.com/tv/重庆移动.png" group-title="卫视高清",重庆移动
+http://125.80.157.63:7788/rtp/235.254.196.217:1140
+#EXTINF:-1 tvg-id="1" tvg-name="汽摩" tvg-logo="https://live.fanmingming.com/tv/汽摩.png" group-title="卫视高清",汽摩
+http://125.80.157.63:7788/rtp/235.254.196.221:1156
+#EXTINF:-1 tvg-id="1" tvg-name="重庆影视" tvg-logo="https://live.fanmingming.com/tv/重庆影视.png" group-title="卫视高清",重庆影视
+http://125.80.159.232:7788/rtp/235.254.198.180:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆新闻" tvg-logo="https://live.fanmingming.com/tv/重庆新闻.png" group-title="卫视高清",重庆新闻
+http://125.80.159.232:7788/rtp/235.254.196.199:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆社会与法" tvg-logo="https://live.fanmingming.com/tv/重庆社会与法.png" group-title="卫视高清",重庆社会与法
+http://125.80.159.232:7788/rtp/235.254.198.181:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆少儿" tvg-logo="https://live.fanmingming.com/tv/重庆少儿.png" group-title="卫视高清",重庆少儿
+http://125.80.159.232:7788/rtp/235.254.196.214:1128
+#EXTINF:-1 tvg-id="1" tvg-name="重庆科教" tvg-logo="https://live.fanmingming.com/tv/重庆科教.png" group-title="卫视高清",重庆科教
+http://125.80.159.232:7788/rtp/235.254.196.215:1132
+#EXTINF:-1 tvg-id="1" tvg-name="重庆娱乐" tvg-logo="https://live.fanmingming.com/tv/重庆娱乐.png" group-title="卫视高清",重庆娱乐
+http://125.80.159.232:7788/rtp/235.254.198.187:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆时尚生活" tvg-logo="https://live.fanmingming.com/tv/重庆时尚生活.png" group-title="卫视高清",重庆时尚生活
+http://125.80.159.232:7788/rtp/235.254.198.182:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆农村" tvg-logo="https://live.fanmingming.com/tv/重庆农村.png" group-title="卫视高清",重庆农村
+http://125.80.159.232:7788/rtp/235.254.198.186:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆移动" tvg-logo="https://live.fanmingming.com/tv/重庆移动.png" group-title="卫视高清",重庆移动
+http://125.80.159.232:7788/rtp/235.254.196.217:1140
+#EXTINF:-1 tvg-id="1" tvg-name="汽摩" tvg-logo="https://live.fanmingming.com/tv/汽摩.png" group-title="卫视高清",汽摩
+http://125.80.159.232:7788/rtp/235.254.196.221:1156
+#EXTINF:-1 tvg-id="1" tvg-name="重庆影视" tvg-logo="https://live.fanmingming.com/tv/重庆影视.png" group-title="卫视高清",重庆影视
+http://113.251.89.179:4022/rtp/235.254.198.180:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆新闻" tvg-logo="https://live.fanmingming.com/tv/重庆新闻.png" group-title="卫视高清",重庆新闻
+http://113.251.89.179:4022/rtp/235.254.196.199:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆社会与法" tvg-logo="https://live.fanmingming.com/tv/重庆社会与法.png" group-title="卫视高清",重庆社会与法
+http://113.251.89.179:4022/rtp/235.254.198.181:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆少儿" tvg-logo="https://live.fanmingming.com/tv/重庆少儿.png" group-title="卫视高清",重庆少儿
+http://113.251.89.179:4022/rtp/235.254.196.214:1128
+#EXTINF:-1 tvg-id="1" tvg-name="重庆科教" tvg-logo="https://live.fanmingming.com/tv/重庆科教.png" group-title="卫视高清",重庆科教
+http://113.251.89.179:4022/rtp/235.254.196.215:1132
+#EXTINF:-1 tvg-id="1" tvg-name="重庆娱乐" tvg-logo="https://live.fanmingming.com/tv/重庆娱乐.png" group-title="卫视高清",重庆娱乐
+http://113.251.89.179:4022/rtp/235.254.198.187:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆时尚生活" tvg-logo="https://live.fanmingming.com/tv/重庆时尚生活.png" group-title="卫视高清",重庆时尚生活
+http://113.251.89.179:4022/rtp/235.254.198.182:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆农村" tvg-logo="https://live.fanmingming.com/tv/重庆农村.png" group-title="卫视高清",重庆农村
+http://113.251.89.179:4022/rtp/235.254.198.186:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆移动" tvg-logo="https://live.fanmingming.com/tv/重庆移动.png" group-title="卫视高清",重庆移动
+http://113.251.89.179:4022/rtp/235.254.196.217:1140
+#EXTINF:-1 tvg-id="1" tvg-name="汽摩" tvg-logo="https://live.fanmingming.com/tv/汽摩.png" group-title="卫视高清",汽摩
+http://113.251.89.179:4022/rtp/235.254.196.221:1156
+#EXTINF:-1 tvg-id="1" tvg-name="重庆影视" tvg-logo="https://live.fanmingming.com/tv/重庆影视.png" group-title="卫视高清",重庆影视
+http://106.86.155.112:20001/rtp/235.254.198.180:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆新闻" tvg-logo="https://live.fanmingming.com/tv/重庆新闻.png" group-title="卫视高清",重庆新闻
+http://106.86.155.112:20001/rtp/235.254.196.199:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆社会与法" tvg-logo="https://live.fanmingming.com/tv/重庆社会与法.png" group-title="卫视高清",重庆社会与法
+http://106.86.155.112:20001/rtp/235.254.198.181:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆少儿" tvg-logo="https://live.fanmingming.com/tv/重庆少儿.png" group-title="卫视高清",重庆少儿
+http://106.86.155.112:20001/rtp/235.254.196.214:1128
+#EXTINF:-1 tvg-id="1" tvg-name="重庆科教" tvg-logo="https://live.fanmingming.com/tv/重庆科教.png" group-title="卫视高清",重庆科教
+http://106.86.155.112:20001/rtp/235.254.196.215:1132
+#EXTINF:-1 tvg-id="1" tvg-name="重庆娱乐" tvg-logo="https://live.fanmingming.com/tv/重庆娱乐.png" group-title="卫视高清",重庆娱乐
+http://106.86.155.112:20001/rtp/235.254.198.187:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆时尚生活" tvg-logo="https://live.fanmingming.com/tv/重庆时尚生活.png" group-title="卫视高清",重庆时尚生活
+http://106.86.155.112:20001/rtp/235.254.198.182:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆农村" tvg-logo="https://live.fanmingming.com/tv/重庆农村.png" group-title="卫视高清",重庆农村
+http://106.86.155.112:20001/rtp/235.254.198.186:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆移动" tvg-logo="https://live.fanmingming.com/tv/重庆移动.png" group-title="卫视高清",重庆移动
+http://106.86.155.112:20001/rtp/235.254.196.217:1140
+#EXTINF:-1 tvg-id="1" tvg-name="汽摩" tvg-logo="https://live.fanmingming.com/tv/汽摩.png" group-title="卫视高清",汽摩
+http://106.86.155.112:20001/rtp/235.254.196.221:1156
+#EXTINF:-1 tvg-id="1" tvg-name="重庆影视" tvg-logo="https://live.fanmingming.com/tv/重庆影视.png" group-title="卫视高清",重庆影视
+http://119.84.192.227:7777/rtp/235.254.198.180:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆新闻" tvg-logo="https://live.fanmingming.com/tv/重庆新闻.png" group-title="卫视高清",重庆新闻
+http://119.84.192.227:7777/rtp/235.254.196.199:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆社会与法" tvg-logo="https://live.fanmingming.com/tv/重庆社会与法.png" group-title="卫视高清",重庆社会与法
+http://119.84.192.227:7777/rtp/235.254.198.181:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆少儿" tvg-logo="https://live.fanmingming.com/tv/重庆少儿.png" group-title="卫视高清",重庆少儿
+http://119.84.192.227:7777/rtp/235.254.196.214:1128
+#EXTINF:-1 tvg-id="1" tvg-name="重庆科教" tvg-logo="https://live.fanmingming.com/tv/重庆科教.png" group-title="卫视高清",重庆科教
+http://119.84.192.227:7777/rtp/235.254.196.215:1132
+#EXTINF:-1 tvg-id="1" tvg-name="重庆娱乐" tvg-logo="https://live.fanmingming.com/tv/重庆娱乐.png" group-title="卫视高清",重庆娱乐
+http://119.84.192.227:7777/rtp/235.254.198.187:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆时尚生活" tvg-logo="https://live.fanmingming.com/tv/重庆时尚生活.png" group-title="卫视高清",重庆时尚生活
+http://119.84.192.227:7777/rtp/235.254.198.182:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆农村" tvg-logo="https://live.fanmingming.com/tv/重庆农村.png" group-title="卫视高清",重庆农村
+http://119.84.192.227:7777/rtp/235.254.198.186:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆移动" tvg-logo="https://live.fanmingming.com/tv/重庆移动.png" group-title="卫视高清",重庆移动
+http://119.84.192.227:7777/rtp/235.254.196.217:1140
+#EXTINF:-1 tvg-id="1" tvg-name="汽摩" tvg-logo="https://live.fanmingming.com/tv/汽摩.png" group-title="卫视高清",汽摩
+http://119.84.192.227:7777/rtp/235.254.196.221:1156
+#EXTINF:-1 tvg-id="1" tvg-name="重庆影视" tvg-logo="https://live.fanmingming.com/tv/重庆影视.png" group-title="卫视高清",重庆影视
+http://125.81.196.150:8899/rtp/235.254.198.180:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆新闻" tvg-logo="https://live.fanmingming.com/tv/重庆新闻.png" group-title="卫视高清",重庆新闻
+http://125.81.196.150:8899/rtp/235.254.196.199:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆社会与法" tvg-logo="https://live.fanmingming.com/tv/重庆社会与法.png" group-title="卫视高清",重庆社会与法
+http://125.81.196.150:8899/rtp/235.254.198.181:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆少儿" tvg-logo="https://live.fanmingming.com/tv/重庆少儿.png" group-title="卫视高清",重庆少儿
+http://125.81.196.150:8899/rtp/235.254.196.214:1128
+#EXTINF:-1 tvg-id="1" tvg-name="重庆科教" tvg-logo="https://live.fanmingming.com/tv/重庆科教.png" group-title="卫视高清",重庆科教
+http://125.81.196.150:8899/rtp/235.254.196.215:1132
+#EXTINF:-1 tvg-id="1" tvg-name="重庆娱乐" tvg-logo="https://live.fanmingming.com/tv/重庆娱乐.png" group-title="卫视高清",重庆娱乐
+http://125.81.196.150:8899/rtp/235.254.198.187:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆时尚生活" tvg-logo="https://live.fanmingming.com/tv/重庆时尚生活.png" group-title="卫视高清",重庆时尚生活
+http://125.81.196.150:8899/rtp/235.254.198.182:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆农村" tvg-logo="https://live.fanmingming.com/tv/重庆农村.png" group-title="卫视高清",重庆农村
+http://125.81.196.150:8899/rtp/235.254.198.186:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆移动" tvg-logo="https://live.fanmingming.com/tv/重庆移动.png" group-title="卫视高清",重庆移动
+http://125.81.196.150:8899/rtp/235.254.196.217:1140
+#EXTINF:-1 tvg-id="1" tvg-name="汽摩" tvg-logo="https://live.fanmingming.com/tv/汽摩.png" group-title="卫视高清",汽摩
+http://125.81.196.150:8899/rtp/235.254.196.221:1156
+#EXTINF:-1 tvg-id="1" tvg-name="重庆影视" tvg-logo="https://live.fanmingming.com/tv/重庆影视.png" group-title="卫视高清",重庆影视
+http://106.86.155.112:20002/rtp/235.254.198.180:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆新闻" tvg-logo="https://live.fanmingming.com/tv/重庆新闻.png" group-title="卫视高清",重庆新闻
+http://106.86.155.112:20002/rtp/235.254.196.199:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆社会与法" tvg-logo="https://live.fanmingming.com/tv/重庆社会与法.png" group-title="卫视高清",重庆社会与法
+http://106.86.155.112:20002/rtp/235.254.198.181:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆少儿" tvg-logo="https://live.fanmingming.com/tv/重庆少儿.png" group-title="卫视高清",重庆少儿
+http://106.86.155.112:20002/rtp/235.254.196.214:1128
+#EXTINF:-1 tvg-id="1" tvg-name="重庆科教" tvg-logo="https://live.fanmingming.com/tv/重庆科教.png" group-title="卫视高清",重庆科教
+http://106.86.155.112:20002/rtp/235.254.196.215:1132
+#EXTINF:-1 tvg-id="1" tvg-name="重庆娱乐" tvg-logo="https://live.fanmingming.com/tv/重庆娱乐.png" group-title="卫视高清",重庆娱乐
+http://106.86.155.112:20002/rtp/235.254.198.187:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆时尚生活" tvg-logo="https://live.fanmingming.com/tv/重庆时尚生活.png" group-title="卫视高清",重庆时尚生活
+http://106.86.155.112:20002/rtp/235.254.198.182:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆农村" tvg-logo="https://live.fanmingming.com/tv/重庆农村.png" group-title="卫视高清",重庆农村
+http://106.86.155.112:20002/rtp/235.254.198.186:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆移动" tvg-logo="https://live.fanmingming.com/tv/重庆移动.png" group-title="卫视高清",重庆移动
+http://106.86.155.112:20002/rtp/235.254.196.217:1140
+#EXTINF:-1 tvg-id="1" tvg-name="汽摩" tvg-logo="https://live.fanmingming.com/tv/汽摩.png" group-title="卫视高清",汽摩
+http://106.86.155.112:20002/rtp/235.254.196.221:1156
+#EXTINF:-1 tvg-id="1" tvg-name="重庆影视" tvg-logo="https://live.fanmingming.com/tv/重庆影视.png" group-title="卫视高清",重庆影视
+#EXTINF:-1 tvg-id="1" tvg-name="重庆新闻" tvg-logo="https://live.fanmingming.com/tv/重庆新闻.png" group-title="卫视高清",重庆新闻
+#EXTINF:-1 tvg-id="1" tvg-name="重庆社会与法" tvg-logo="https://live.fanmingming.com/tv/重庆社会与法.png" group-title="卫视高清",重庆社会与法
+#EXTINF:-1 tvg-id="1" tvg-name="重庆少儿" tvg-logo="https://live.fanmingming.com/tv/重庆少儿.png" group-title="卫视高清",重庆少儿
+#EXTINF:-1 tvg-id="1" tvg-name="重庆科教" tvg-logo="https://live.fanmingming.com/tv/重庆科教.png" group-title="卫视高清",重庆科教
+#EXTINF:-1 tvg-id="1" tvg-name="重庆娱乐" tvg-logo="https://live.fanmingming.com/tv/重庆娱乐.png" group-title="卫视高清",重庆娱乐
+#EXTINF:-1 tvg-id="1" tvg-name="重庆时尚生活" tvg-logo="https://live.fanmingming.com/tv/重庆时尚生活.png" group-title="卫视高清",重庆时尚生活
+#EXTINF:-1 tvg-id="1" tvg-name="重庆农村" tvg-logo="https://live.fanmingming.com/tv/重庆农村.png" group-title="卫视高清",重庆农村
+#EXTINF:-1 tvg-id="1" tvg-name="重庆移动" tvg-logo="https://live.fanmingming.com/tv/重庆移动.png" group-title="卫视高清",重庆移动
+#EXTINF:-1 tvg-id="1" tvg-name="汽摩" tvg-logo="https://live.fanmingming.com/tv/汽摩.png" group-title="卫视高清",汽摩
+#EXTINF:-1 tvg-id="1" tvg-name="重庆影视" tvg-logo="https://live.fanmingming.com/tv/重庆影视.png" group-title="卫视高清",重庆影视
+#EXTINF:-1 tvg-id="1" tvg-name="重庆新闻" tvg-logo="https://live.fanmingming.com/tv/重庆新闻.png" group-title="卫视高清",重庆新闻
+#EXTINF:-1 tvg-id="1" tvg-name="重庆社会与法" tvg-logo="https://live.fanmingming.com/tv/重庆社会与法.png" group-title="卫视高清",重庆社会与法
+#EXTINF:-1 tvg-id="1" tvg-name="重庆少儿" tvg-logo="https://live.fanmingming.com/tv/重庆少儿.png" group-title="卫视高清",重庆少儿
+#EXTINF:-1 tvg-id="1" tvg-name="重庆科教" tvg-logo="https://live.fanmingming.com/tv/重庆科教.png" group-title="卫视高清",重庆科教
+#EXTINF:-1 tvg-id="1" tvg-name="重庆娱乐" tvg-logo="https://live.fanmingming.com/tv/重庆娱乐.png" group-title="卫视高清",重庆娱乐
+#EXTINF:-1 tvg-id="1" tvg-name="重庆时尚生活" tvg-logo="https://live.fanmingming.com/tv/重庆时尚生活.png" group-title="卫视高清",重庆时尚生活
+#EXTINF:-1 tvg-id="1" tvg-name="重庆农村" tvg-logo="https://live.fanmingming.com/tv/重庆农村.png" group-title="卫视高清",重庆农村
+#EXTINF:-1 tvg-id="1" tvg-name="重庆移动" tvg-logo="https://live.fanmingming.com/tv/重庆移动.png" group-title="卫视高清",重庆移动
+#EXTINF:-1 tvg-id="1" tvg-name="汽摩" tvg-logo="https://live.fanmingming.com/tv/汽摩.png" group-title="卫视高清",汽摩
+#EXTINF:-1 tvg-id="1" tvg-name="重庆影视" tvg-logo="https://live.fanmingming.com/tv/重庆影视.png" group-title="卫视高清",重庆影视
+#EXTINF:-1 tvg-id="1" tvg-name="重庆新闻" tvg-logo="https://live.fanmingming.com/tv/重庆新闻.png" group-title="卫视高清",重庆新闻
+#EXTINF:-1 tvg-id="1" tvg-name="重庆社会与法" tvg-logo="https://live.fanmingming.com/tv/重庆社会与法.png" group-title="卫视高清",重庆社会与法
+#EXTINF:-1 tvg-id="1" tvg-name="重庆少儿" tvg-logo="https://live.fanmingming.com/tv/重庆少儿.png" group-title="卫视高清",重庆少儿
+#EXTINF:-1 tvg-id="1" tvg-name="重庆科教" tvg-logo="https://live.fanmingming.com/tv/重庆科教.png" group-title="卫视高清",重庆科教
+#EXTINF:-1 tvg-id="1" tvg-name="重庆娱乐" tvg-logo="https://live.fanmingming.com/tv/重庆娱乐.png" group-title="卫视高清",重庆娱乐
+#EXTINF:-1 tvg-id="1" tvg-name="重庆时尚生活" tvg-logo="https://live.fanmingming.com/tv/重庆时尚生活.png" group-title="卫视高清",重庆时尚生活
+#EXTINF:-1 tvg-id="1" tvg-name="重庆农村" tvg-logo="https://live.fanmingming.com/tv/重庆农村.png" group-title="卫视高清",重庆农村
+#EXTINF:-1 tvg-id="1" tvg-name="重庆移动" tvg-logo="https://live.fanmingming.com/tv/重庆移动.png" group-title="卫视高清",重庆移动
+#EXTINF:-1 tvg-id="1" tvg-name="汽摩" tvg-logo="https://live.fanmingming.com/tv/汽摩.png" group-title="卫视高清",汽摩
+#EXTINF:-1 tvg-id="1" tvg-name="重庆影视" tvg-logo="https://live.fanmingming.com/tv/重庆影视.png" group-title="卫视高清",重庆影视
+#EXTINF:-1 tvg-id="1" tvg-name="重庆新闻" tvg-logo="https://live.fanmingming.com/tv/重庆新闻.png" group-title="卫视高清",重庆新闻
+#EXTINF:-1 tvg-id="1" tvg-name="重庆社会与法" tvg-logo="https://live.fanmingming.com/tv/重庆社会与法.png" group-title="卫视高清",重庆社会与法
+#EXTINF:-1 tvg-id="1" tvg-name="重庆少儿" tvg-logo="https://live.fanmingming.com/tv/重庆少儿.png" group-title="卫视高清",重庆少儿
+#EXTINF:-1 tvg-id="1" tvg-name="重庆科教" tvg-logo="https://live.fanmingming.com/tv/重庆科教.png" group-title="卫视高清",重庆科教
+#EXTINF:-1 tvg-id="1" tvg-name="重庆娱乐" tvg-logo="https://live.fanmingming.com/tv/重庆娱乐.png" group-title="卫视高清",重庆娱乐
+#EXTINF:-1 tvg-id="1" tvg-name="重庆时尚生活" tvg-logo="https://live.fanmingming.com/tv/重庆时尚生活.png" group-title="卫视高清",重庆时尚生活
+#EXTINF:-1 tvg-id="1" tvg-name="重庆农村" tvg-logo="https://live.fanmingming.com/tv/重庆农村.png" group-title="卫视高清",重庆农村
+#EXTINF:-1 tvg-id="1" tvg-name="重庆移动" tvg-logo="https://live.fanmingming.com/tv/重庆移动.png" group-title="卫视高清",重庆移动
+#EXTINF:-1 tvg-id="1" tvg-name="汽摩" tvg-logo="https://live.fanmingming.com/tv/汽摩.png" group-title="卫视高清",汽摩
+#EXTINF:-1 tvg-id="1" tvg-name="重庆影视" tvg-logo="https://live.fanmingming.com/tv/重庆影视.png" group-title="卫视高清",重庆影视
+#EXTINF:-1 tvg-id="1" tvg-name="重庆新闻" tvg-logo="https://live.fanmingming.com/tv/重庆新闻.png" group-title="卫视高清",重庆新闻
+#EXTINF:-1 tvg-id="1" tvg-name="重庆社会与法" tvg-logo="https://live.fanmingming.com/tv/重庆社会与法.png" group-title="卫视高清",重庆社会与法
+#EXTINF:-1 tvg-id="1" tvg-name="重庆少儿" tvg-logo="https://live.fanmingming.com/tv/重庆少儿.png" group-title="卫视高清",重庆少儿
+#EXTINF:-1 tvg-id="1" tvg-name="重庆科教" tvg-logo="https://live.fanmingming.com/tv/重庆科教.png" group-title="卫视高清",重庆科教
+#EXTINF:-1 tvg-id="1" tvg-name="重庆娱乐" tvg-logo="https://live.fanmingming.com/tv/重庆娱乐.png" group-title="卫视高清",重庆娱乐
+#EXTINF:-1 tvg-id="1" tvg-name="重庆时尚生活" tvg-logo="https://live.fanmingming.com/tv/重庆时尚生活.png" group-title="卫视高清",重庆时尚生活
+#EXTINF:-1 tvg-id="1" tvg-name="重庆农村" tvg-logo="https://live.fanmingming.com/tv/重庆农村.png" group-title="卫视高清",重庆农村
+#EXTINF:-1 tvg-id="1" tvg-name="重庆移动" tvg-logo="https://live.fanmingming.com/tv/重庆移动.png" group-title="卫视高清",重庆移动
+#EXTINF:-1 tvg-id="1" tvg-name="汽摩" tvg-logo="https://live.fanmingming.com/tv/汽摩.png" group-title="卫视高清",汽摩
+#EXTINF:-1 tvg-id="1" tvg-name="重庆影视" tvg-logo="https://live.fanmingming.com/tv/重庆影视.png" group-title="卫视高清",重庆影视
+#EXTINF:-1 tvg-id="1" tvg-name="重庆新闻" tvg-logo="https://live.fanmingming.com/tv/重庆新闻.png" group-title="卫视高清",重庆新闻
+#EXTINF:-1 tvg-id="1" tvg-name="重庆社会与法" tvg-logo="https://live.fanmingming.com/tv/重庆社会与法.png" group-title="卫视高清",重庆社会与法
+#EXTINF:-1 tvg-id="1" tvg-name="重庆少儿" tvg-logo="https://live.fanmingming.com/tv/重庆少儿.png" group-title="卫视高清",重庆少儿
+#EXTINF:-1 tvg-id="1" tvg-name="重庆科教" tvg-logo="https://live.fanmingming.com/tv/重庆科教.png" group-title="卫视高清",重庆科教
+#EXTINF:-1 tvg-id="1" tvg-name="重庆娱乐" tvg-logo="https://live.fanmingming.com/tv/重庆娱乐.png" group-title="卫视高清",重庆娱乐
+#EXTINF:-1 tvg-id="1" tvg-name="重庆时尚生活" tvg-logo="https://live.fanmingming.com/tv/重庆时尚生活.png" group-title="卫视高清",重庆时尚生活
+#EXTINF:-1 tvg-id="1" tvg-name="重庆农村" tvg-logo="https://live.fanmingming.com/tv/重庆农村.png" group-title="卫视高清",重庆农村
+#EXTINF:-1 tvg-id="1" tvg-name="重庆移动" tvg-logo="https://live.fanmingming.com/tv/重庆移动.png" group-title="卫视高清",重庆移动
+#EXTINF:-1 tvg-id="1" tvg-name="汽摩" tvg-logo="https://live.fanmingming.com/tv/汽摩.png" group-title="卫视高清",汽摩
+#EXTINF:-1 tvg-id="1" tvg-name="重庆影视" tvg-logo="https://live.fanmingming.com/tv/重庆影视.png" group-title="卫视高清",重庆影视
+#EXTINF:-1 tvg-id="1" tvg-name="重庆新闻" tvg-logo="https://live.fanmingming.com/tv/重庆新闻.png" group-title="卫视高清",重庆新闻
+#EXTINF:-1 tvg-id="1" tvg-name="重庆社会与法" tvg-logo="https://live.fanmingming.com/tv/重庆社会与法.png" group-title="卫视高清",重庆社会与法
+#EXTINF:-1 tvg-id="1" tvg-name="重庆少儿" tvg-logo="https://live.fanmingming.com/tv/重庆少儿.png" group-title="卫视高清",重庆少儿
+#EXTINF:-1 tvg-id="1" tvg-name="重庆科教" tvg-logo="https://live.fanmingming.com/tv/重庆科教.png" group-title="卫视高清",重庆科教
+#EXTINF:-1 tvg-id="1" tvg-name="重庆娱乐" tvg-logo="https://live.fanmingming.com/tv/重庆娱乐.png" group-title="卫视高清",重庆娱乐
+#EXTINF:-1 tvg-id="1" tvg-name="重庆时尚生活" tvg-logo="https://live.fanmingming.com/tv/重庆时尚生活.png" group-title="卫视高清",重庆时尚生活
+#EXTINF:-1 tvg-id="1" tvg-name="重庆农村" tvg-logo="https://live.fanmingming.com/tv/重庆农村.png" group-title="卫视高清",重庆农村
+#EXTINF:-1 tvg-id="1" tvg-name="重庆移动" tvg-logo="https://live.fanmingming.com/tv/重庆移动.png" group-title="卫视高清",重庆移动
+#EXTINF:-1 tvg-id="1" tvg-name="汽摩" tvg-logo="https://live.fanmingming.com/tv/汽摩.png" group-title="卫视高清",汽摩
+#EXTINF:-1 tvg-id="1" tvg-name="重庆影视" tvg-logo="https://live.fanmingming.com/tv/重庆影视.png" group-title="卫视高清",重庆影视
+#EXTINF:-1 tvg-id="1" tvg-name="重庆新闻" tvg-logo="https://live.fanmingming.com/tv/重庆新闻.png" group-title="卫视高清",重庆新闻
+#EXTINF:-1 tvg-id="1" tvg-name="重庆社会与法" tvg-logo="https://live.fanmingming.com/tv/重庆社会与法.png" group-title="卫视高清",重庆社会与法
+#EXTINF:-1 tvg-id="1" tvg-name="重庆少儿" tvg-logo="https://live.fanmingming.com/tv/重庆少儿.png" group-title="卫视高清",重庆少儿
+#EXTINF:-1 tvg-id="1" tvg-name="重庆科教" tvg-logo="https://live.fanmingming.com/tv/重庆科教.png" group-title="卫视高清",重庆科教
+#EXTINF:-1 tvg-id="1" tvg-name="重庆娱乐" tvg-logo="https://live.fanmingming.com/tv/重庆娱乐.png" group-title="卫视高清",重庆娱乐
+#EXTINF:-1 tvg-id="1" tvg-name="重庆时尚生活" tvg-logo="https://live.fanmingming.com/tv/重庆时尚生活.png" group-title="卫视高清",重庆时尚生活
+#EXTINF:-1 tvg-id="1" tvg-name="重庆农村" tvg-logo="https://live.fanmingming.com/tv/重庆农村.png" group-title="卫视高清",重庆农村
+#EXTINF:-1 tvg-id="1" tvg-name="重庆移动" tvg-logo="https://live.fanmingming.com/tv/重庆移动.png" group-title="卫视高清",重庆移动
+#EXTINF:-1 tvg-id="1" tvg-name="汽摩" tvg-logo="https://live.fanmingming.com/tv/汽摩.png" group-title="卫视高清",汽摩
+#EXTINF:-1 tvg-id="1" tvg-name="重庆影视" tvg-logo="https://live.fanmingming.com/tv/重庆影视.png" group-title="卫视高清",重庆影视
+#EXTINF:-1 tvg-id="1" tvg-name="重庆新闻" tvg-logo="https://live.fanmingming.com/tv/重庆新闻.png" group-title="卫视高清",重庆新闻
+#EXTINF:-1 tvg-id="1" tvg-name="重庆社会与法" tvg-logo="https://live.fanmingming.com/tv/重庆社会与法.png" group-title="卫视高清",重庆社会与法
+#EXTINF:-1 tvg-id="1" tvg-name="重庆少儿" tvg-logo="https://live.fanmingming.com/tv/重庆少儿.png" group-title="卫视高清",重庆少儿
+#EXTINF:-1 tvg-id="1" tvg-name="重庆科教" tvg-logo="https://live.fanmingming.com/tv/重庆科教.png" group-title="卫视高清",重庆科教
+#EXTINF:-1 tvg-id="1" tvg-name="重庆娱乐" tvg-logo="https://live.fanmingming.com/tv/重庆娱乐.png" group-title="卫视高清",重庆娱乐
+#EXTINF:-1 tvg-id="1" tvg-name="重庆时尚生活" tvg-logo="https://live.fanmingming.com/tv/重庆时尚生活.png" group-title="卫视高清",重庆时尚生活
+#EXTINF:-1 tvg-id="1" tvg-name="重庆农村" tvg-logo="https://live.fanmingming.com/tv/重庆农村.png" group-title="卫视高清",重庆农村
+#EXTINF:-1 tvg-id="1" tvg-name="重庆移动" tvg-logo="https://live.fanmingming.com/tv/重庆移动.png" group-title="卫视高清",重庆移动
+#EXTINF:-1 tvg-id="1" tvg-name="汽摩" tvg-logo="https://live.fanmingming.com/tv/汽摩.png" group-title="卫视高清",汽摩
+#EXTINF:-1 tvg-id="1" tvg-name="重庆影视" tvg-logo="https://live.fanmingming.com/tv/重庆影视.png" group-title="卫视高清",重庆影视
+#EXTINF:-1 tvg-id="1" tvg-name="重庆新闻" tvg-logo="https://live.fanmingming.com/tv/重庆新闻.png" group-title="卫视高清",重庆新闻
+#EXTINF:-1 tvg-id="1" tvg-name="重庆社会与法" tvg-logo="https://live.fanmingming.com/tv/重庆社会与法.png" group-title="卫视高清",重庆社会与法
+#EXTINF:-1 tvg-id="1" tvg-name="重庆少儿" tvg-logo="https://live.fanmingming.com/tv/重庆少儿.png" group-title="卫视高清",重庆少儿
+#EXTINF:-1 tvg-id="1" tvg-name="重庆科教" tvg-logo="https://live.fanmingming.com/tv/重庆科教.png" group-title="卫视高清",重庆科教
+#EXTINF:-1 tvg-id="1" tvg-name="重庆娱乐" tvg-logo="https://live.fanmingming.com/tv/重庆娱乐.png" group-title="卫视高清",重庆娱乐
+#EXTINF:-1 tvg-id="1" tvg-name="重庆时尚生活" tvg-logo="https://live.fanmingming.com/tv/重庆时尚生活.png" group-title="卫视高清",重庆时尚生活
+#EXTINF:-1 tvg-id="1" tvg-name="重庆农村" tvg-logo="https://live.fanmingming.com/tv/重庆农村.png" group-title="卫视高清",重庆农村
+#EXTINF:-1 tvg-id="1" tvg-name="重庆移动" tvg-logo="https://live.fanmingming.com/tv/重庆移动.png" group-title="卫视高清",重庆移动
+#EXTINF:-1 tvg-id="1" tvg-name="汽摩" tvg-logo="https://live.fanmingming.com/tv/汽摩.png" group-title="卫视高清",汽摩
+#EXTINF:-1 tvg-id="1" tvg-name="重庆影视" tvg-logo="https://live.fanmingming.com/tv/重庆影视.png" group-title="卫视高清",重庆影视
+#EXTINF:-1 tvg-id="1" tvg-name="重庆新闻" tvg-logo="https://live.fanmingming.com/tv/重庆新闻.png" group-title="卫视高清",重庆新闻
+#EXTINF:-1 tvg-id="1" tvg-name="重庆社会与法" tvg-logo="https://live.fanmingming.com/tv/重庆社会与法.png" group-title="卫视高清",重庆社会与法
+#EXTINF:-1 tvg-id="1" tvg-name="重庆少儿" tvg-logo="https://live.fanmingming.com/tv/重庆少儿.png" group-title="卫视高清",重庆少儿
+#EXTINF:-1 tvg-id="1" tvg-name="重庆科教" tvg-logo="https://live.fanmingming.com/tv/重庆科教.png" group-title="卫视高清",重庆科教
+#EXTINF:-1 tvg-id="1" tvg-name="重庆娱乐" tvg-logo="https://live.fanmingming.com/tv/重庆娱乐.png" group-title="卫视高清",重庆娱乐
+#EXTINF:-1 tvg-id="1" tvg-name="重庆时尚生活" tvg-logo="https://live.fanmingming.com/tv/重庆时尚生活.png" group-title="卫视高清",重庆时尚生活
+#EXTINF:-1 tvg-id="1" tvg-name="重庆农村" tvg-logo="https://live.fanmingming.com/tv/重庆农村.png" group-title="卫视高清",重庆农村
+#EXTINF:-1 tvg-id="1" tvg-name="重庆移动" tvg-logo="https://live.fanmingming.com/tv/重庆移动.png" group-title="卫视高清",重庆移动
+#EXTINF:-1 tvg-id="1" tvg-name="汽摩" tvg-logo="https://live.fanmingming.com/tv/汽摩.png" group-title="卫视高清",汽摩
+#EXTINF:-1 tvg-id="1" tvg-name="重庆影视" tvg-logo="https://live.fanmingming.com/tv/重庆影视.png" group-title="卫视高清",重庆影视
+#EXTINF:-1 tvg-id="1" tvg-name="重庆新闻" tvg-logo="https://live.fanmingming.com/tv/重庆新闻.png" group-title="卫视高清",重庆新闻
+#EXTINF:-1 tvg-id="1" tvg-name="重庆社会与法" tvg-logo="https://live.fanmingming.com/tv/重庆社会与法.png" group-title="卫视高清",重庆社会与法
+#EXTINF:-1 tvg-id="1" tvg-name="重庆少儿" tvg-logo="https://live.fanmingming.com/tv/重庆少儿.png" group-title="卫视高清",重庆少儿
+#EXTINF:-1 tvg-id="1" tvg-name="重庆科教" tvg-logo="https://live.fanmingming.com/tv/重庆科教.png" group-title="卫视高清",重庆科教
+#EXTINF:-1 tvg-id="1" tvg-name="重庆娱乐" tvg-logo="https://live.fanmingming.com/tv/重庆娱乐.png" group-title="卫视高清",重庆娱乐
+#EXTINF:-1 tvg-id="1" tvg-name="重庆时尚生活" tvg-logo="https://live.fanmingming.com/tv/重庆时尚生活.png" group-title="卫视高清",重庆时尚生活
+#EXTINF:-1 tvg-id="1" tvg-name="重庆农村" tvg-logo="https://live.fanmingming.com/tv/重庆农村.png" group-title="卫视高清",重庆农村
+#EXTINF:-1 tvg-id="1" tvg-name="重庆移动" tvg-logo="https://live.fanmingming.com/tv/重庆移动.png" group-title="卫视高清",重庆移动
+#EXTINF:-1 tvg-id="1" tvg-name="汽摩" tvg-logo="https://live.fanmingming.com/tv/汽摩.png" group-title="卫视高清",汽摩
+#EXTINF:-1 tvg-id="1" tvg-name="重庆影视" tvg-logo="https://live.fanmingming.com/tv/重庆影视.png" group-title="卫视高清",重庆影视
+#EXTINF:-1 tvg-id="1" tvg-name="重庆新闻" tvg-logo="https://live.fanmingming.com/tv/重庆新闻.png" group-title="卫视高清",重庆新闻
+#EXTINF:-1 tvg-id="1" tvg-name="重庆社会与法" tvg-logo="https://live.fanmingming.com/tv/重庆社会与法.png" group-title="卫视高清",重庆社会与法
+#EXTINF:-1 tvg-id="1" tvg-name="重庆少儿" tvg-logo="https://live.fanmingming.com/tv/重庆少儿.png" group-title="卫视高清",重庆少儿
+#EXTINF:-1 tvg-id="1" tvg-name="重庆科教" tvg-logo="https://live.fanmingming.com/tv/重庆科教.png" group-title="卫视高清",重庆科教
+#EXTINF:-1 tvg-id="1" tvg-name="重庆娱乐" tvg-logo="https://live.fanmingming.com/tv/重庆娱乐.png" group-title="卫视高清",重庆娱乐
+#EXTINF:-1 tvg-id="1" tvg-name="重庆时尚生活" tvg-logo="https://live.fanmingming.com/tv/重庆时尚生活.png" group-title="卫视高清",重庆时尚生活
+#EXTINF:-1 tvg-id="1" tvg-name="重庆农村" tvg-logo="https://live.fanmingming.com/tv/重庆农村.png" group-title="卫视高清",重庆农村
+#EXTINF:-1 tvg-id="1" tvg-name="重庆移动" tvg-logo="https://live.fanmingming.com/tv/重庆移动.png" group-title="卫视高清",重庆移动
+#EXTINF:-1 tvg-id="1" tvg-name="汽摩" tvg-logo="https://live.fanmingming.com/tv/汽摩.png" group-title="卫视高清",汽摩
+#EXTINF:-1 tvg-id="1" tvg-name="重庆影视" tvg-logo="https://live.fanmingming.com/tv/重庆影视.png" group-title="卫视高清",重庆影视
+#EXTINF:-1 tvg-id="1" tvg-name="重庆新闻" tvg-logo="https://live.fanmingming.com/tv/重庆新闻.png" group-title="卫视高清",重庆新闻
+#EXTINF:-1 tvg-id="1" tvg-name="重庆社会与法" tvg-logo="https://live.fanmingming.com/tv/重庆社会与法.png" group-title="卫视高清",重庆社会与法
+#EXTINF:-1 tvg-id="1" tvg-name="重庆少儿" tvg-logo="https://live.fanmingming.com/tv/重庆少儿.png" group-title="卫视高清",重庆少儿
+#EXTINF:-1 tvg-id="1" tvg-name="重庆科教" tvg-logo="https://live.fanmingming.com/tv/重庆科教.png" group-title="卫视高清",重庆科教
+#EXTINF:-1 tvg-id="1" tvg-name="重庆娱乐" tvg-logo="https://live.fanmingming.com/tv/重庆娱乐.png" group-title="卫视高清",重庆娱乐
+#EXTINF:-1 tvg-id="1" tvg-name="重庆时尚生活" tvg-logo="https://live.fanmingming.com/tv/重庆时尚生活.png" group-title="卫视高清",重庆时尚生活
+#EXTINF:-1 tvg-id="1" tvg-name="重庆农村" tvg-logo="https://live.fanmingming.com/tv/重庆农村.png" group-title="卫视高清",重庆农村
+#EXTINF:-1 tvg-id="1" tvg-name="重庆移动" tvg-logo="https://live.fanmingming.com/tv/重庆移动.png" group-title="卫视高清",重庆移动
+#EXTINF:-1 tvg-id="1" tvg-name="汽摩" tvg-logo="https://live.fanmingming.com/tv/汽摩.png" group-title="卫视高清",汽摩
+#EXTINF:-1 tvg-id="1" tvg-name="重庆影视" tvg-logo="https://live.fanmingming.com/tv/重庆影视.png" group-title="卫视高清",重庆影视
+#EXTINF:-1 tvg-id="1" tvg-name="重庆新闻" tvg-logo="https://live.fanmingming.com/tv/重庆新闻.png" group-title="卫视高清",重庆新闻
+#EXTINF:-1 tvg-id="1" tvg-name="重庆社会与法" tvg-logo="https://live.fanmingming.com/tv/重庆社会与法.png" group-title="卫视高清",重庆社会与法
+#EXTINF:-1 tvg-id="1" tvg-name="重庆少儿" tvg-logo="https://live.fanmingming.com/tv/重庆少儿.png" group-title="卫视高清",重庆少儿
+#EXTINF:-1 tvg-id="1" tvg-name="重庆科教" tvg-logo="https://live.fanmingming.com/tv/重庆科教.png" group-title="卫视高清",重庆科教
+#EXTINF:-1 tvg-id="1" tvg-name="重庆娱乐" tvg-logo="https://live.fanmingming.com/tv/重庆娱乐.png" group-title="卫视高清",重庆娱乐
+#EXTINF:-1 tvg-id="1" tvg-name="重庆时尚生活" tvg-logo="https://live.fanmingming.com/tv/重庆时尚生活.png" group-title="卫视高清",重庆时尚生活
+#EXTINF:-1 tvg-id="1" tvg-name="重庆农村" tvg-logo="https://live.fanmingming.com/tv/重庆农村.png" group-title="卫视高清",重庆农村
+#EXTINF:-1 tvg-id="1" tvg-name="重庆移动" tvg-logo="https://live.fanmingming.com/tv/重庆移动.png" group-title="卫视高清",重庆移动
+#EXTINF:-1 tvg-id="1" tvg-name="汽摩" tvg-logo="https://live.fanmingming.com/tv/汽摩.png" group-title="卫视高清",汽摩
+#EXTINF:-1 tvg-id="1" tvg-name="重庆影视" tvg-logo="https://live.fanmingming.com/tv/重庆影视.png" group-title="卫视高清",重庆影视
+#EXTINF:-1 tvg-id="1" tvg-name="重庆新闻" tvg-logo="https://live.fanmingming.com/tv/重庆新闻.png" group-title="卫视高清",重庆新闻
+#EXTINF:-1 tvg-id="1" tvg-name="重庆社会与法" tvg-logo="https://live.fanmingming.com/tv/重庆社会与法.png" group-title="卫视高清",重庆社会与法
+#EXTINF:-1 tvg-id="1" tvg-name="重庆少儿" tvg-logo="https://live.fanmingming.com/tv/重庆少儿.png" group-title="卫视高清",重庆少儿
+#EXTINF:-1 tvg-id="1" tvg-name="重庆科教" tvg-logo="https://live.fanmingming.com/tv/重庆科教.png" group-title="卫视高清",重庆科教
+#EXTINF:-1 tvg-id="1" tvg-name="重庆娱乐" tvg-logo="https://live.fanmingming.com/tv/重庆娱乐.png" group-title="卫视高清",重庆娱乐
+#EXTINF:-1 tvg-id="1" tvg-name="重庆时尚生活" tvg-logo="https://live.fanmingming.com/tv/重庆时尚生活.png" group-title="卫视高清",重庆时尚生活
+#EXTINF:-1 tvg-id="1" tvg-name="重庆农村" tvg-logo="https://live.fanmingming.com/tv/重庆农村.png" group-title="卫视高清",重庆农村
+#EXTINF:-1 tvg-id="1" tvg-name="重庆移动" tvg-logo="https://live.fanmingming.com/tv/重庆移动.png" group-title="卫视高清",重庆移动
+#EXTINF:-1 tvg-id="1" tvg-name="汽摩" tvg-logo="https://live.fanmingming.com/tv/汽摩.png" group-title="卫视高清",汽摩
+#EXTINF:-1 tvg-id="1" tvg-name="重庆影视" tvg-logo="https://live.fanmingming.com/tv/重庆影视.png" group-title="卫视高清",重庆影视
+#EXTINF:-1 tvg-id="1" tvg-name="重庆新闻" tvg-logo="https://live.fanmingming.com/tv/重庆新闻.png" group-title="卫视高清",重庆新闻
+#EXTINF:-1 tvg-id="1" tvg-name="重庆社会与法" tvg-logo="https://live.fanmingming.com/tv/重庆社会与法.png" group-title="卫视高清",重庆社会与法
+#EXTINF:-1 tvg-id="1" tvg-name="重庆少儿" tvg-logo="https://live.fanmingming.com/tv/重庆少儿.png" group-title="卫视高清",重庆少儿
+#EXTINF:-1 tvg-id="1" tvg-name="重庆科教" tvg-logo="https://live.fanmingming.com/tv/重庆科教.png" group-title="卫视高清",重庆科教
+#EXTINF:-1 tvg-id="1" tvg-name="重庆娱乐" tvg-logo="https://live.fanmingming.com/tv/重庆娱乐.png" group-title="卫视高清",重庆娱乐
+#EXTINF:-1 tvg-id="1" tvg-name="重庆时尚生活" tvg-logo="https://live.fanmingming.com/tv/重庆时尚生活.png" group-title="卫视高清",重庆时尚生活
+#EXTINF:-1 tvg-id="1" tvg-name="重庆农村" tvg-logo="https://live.fanmingming.com/tv/重庆农村.png" group-title="卫视高清",重庆农村
+#EXTINF:-1 tvg-id="1" tvg-name="重庆移动" tvg-logo="https://live.fanmingming.com/tv/重庆移动.png" group-title="卫视高清",重庆移动
+#EXTINF:-1 tvg-id="1" tvg-name="汽摩" tvg-logo="https://live.fanmingming.com/tv/汽摩.png" group-title="卫视高清",汽摩
+#EXTINF:-1 tvg-id="1" tvg-name="重庆影视" tvg-logo="https://live.fanmingming.com/tv/重庆影视.png" group-title="卫视高清",重庆影视
+#EXTINF:-1 tvg-id="1" tvg-name="重庆新闻" tvg-logo="https://live.fanmingming.com/tv/重庆新闻.png" group-title="卫视高清",重庆新闻
+#EXTINF:-1 tvg-id="1" tvg-name="重庆社会与法" tvg-logo="https://live.fanmingming.com/tv/重庆社会与法.png" group-title="卫视高清",重庆社会与法
+#EXTINF:-1 tvg-id="1" tvg-name="重庆少儿" tvg-logo="https://live.fanmingming.com/tv/重庆少儿.png" group-title="卫视高清",重庆少儿
+#EXTINF:-1 tvg-id="1" tvg-name="重庆科教" tvg-logo="https://live.fanmingming.com/tv/重庆科教.png" group-title="卫视高清",重庆科教
+#EXTINF:-1 tvg-id="1" tvg-name="重庆娱乐" tvg-logo="https://live.fanmingming.com/tv/重庆娱乐.png" group-title="卫视高清",重庆娱乐
+#EXTINF:-1 tvg-id="1" tvg-name="重庆时尚生活" tvg-logo="https://live.fanmingming.com/tv/重庆时尚生活.png" group-title="卫视高清",重庆时尚生活
+#EXTINF:-1 tvg-id="1" tvg-name="重庆农村" tvg-logo="https://live.fanmingming.com/tv/重庆农村.png" group-title="卫视高清",重庆农村
+#EXTINF:-1 tvg-id="1" tvg-name="重庆移动" tvg-logo="https://live.fanmingming.com/tv/重庆移动.png" group-title="卫视高清",重庆移动
+#EXTINF:-1 tvg-id="1" tvg-name="汽摩" tvg-logo="https://live.fanmingming.com/tv/汽摩.png" group-title="卫视高清",汽摩
+#EXTINF:-1 tvg-id="1" tvg-name="重庆影视" tvg-logo="https://live.fanmingming.com/tv/重庆影视.png" group-title="卫视高清",重庆影视
+#EXTINF:-1 tvg-id="1" tvg-name="重庆新闻" tvg-logo="https://live.fanmingming.com/tv/重庆新闻.png" group-title="卫视高清",重庆新闻
+#EXTINF:-1 tvg-id="1" tvg-name="重庆社会与法" tvg-logo="https://live.fanmingming.com/tv/重庆社会与法.png" group-title="卫视高清",重庆社会与法
+#EXTINF:-1 tvg-id="1" tvg-name="重庆少儿" tvg-logo="https://live.fanmingming.com/tv/重庆少儿.png" group-title="卫视高清",重庆少儿
+#EXTINF:-1 tvg-id="1" tvg-name="重庆科教" tvg-logo="https://live.fanmingming.com/tv/重庆科教.png" group-title="卫视高清",重庆科教
+#EXTINF:-1 tvg-id="1" tvg-name="重庆娱乐" tvg-logo="https://live.fanmingming.com/tv/重庆娱乐.png" group-title="卫视高清",重庆娱乐
+#EXTINF:-1 tvg-id="1" tvg-name="重庆时尚生活" tvg-logo="https://live.fanmingming.com/tv/重庆时尚生活.png" group-title="卫视高清",重庆时尚生活
+#EXTINF:-1 tvg-id="1" tvg-name="重庆农村" tvg-logo="https://live.fanmingming.com/tv/重庆农村.png" group-title="卫视高清",重庆农村
+#EXTINF:-1 tvg-id="1" tvg-name="重庆移动" tvg-logo="https://live.fanmingming.com/tv/重庆移动.png" group-title="卫视高清",重庆移动
+#EXTINF:-1 tvg-id="1" tvg-name="汽摩" tvg-logo="https://live.fanmingming.com/tv/汽摩.png" group-title="卫视高清",汽摩
+#EXTINF:-1 tvg-id="1" tvg-name="重庆影视" tvg-logo="https://live.fanmingming.com/tv/重庆影视.png" group-title="卫视高清",重庆影视
+#EXTINF:-1 tvg-id="1" tvg-name="重庆新闻" tvg-logo="https://live.fanmingming.com/tv/重庆新闻.png" group-title="卫视高清",重庆新闻
+#EXTINF:-1 tvg-id="1" tvg-name="重庆社会与法" tvg-logo="https://live.fanmingming.com/tv/重庆社会与法.png" group-title="卫视高清",重庆社会与法
+#EXTINF:-1 tvg-id="1" tvg-name="重庆少儿" tvg-logo="https://live.fanmingming.com/tv/重庆少儿.png" group-title="卫视高清",重庆少儿
+#EXTINF:-1 tvg-id="1" tvg-name="重庆科教" tvg-logo="https://live.fanmingming.com/tv/重庆科教.png" group-title="卫视高清",重庆科教
+#EXTINF:-1 tvg-id="1" tvg-name="重庆娱乐" tvg-logo="https://live.fanmingming.com/tv/重庆娱乐.png" group-title="卫视高清",重庆娱乐
+#EXTINF:-1 tvg-id="1" tvg-name="重庆时尚生活" tvg-logo="https://live.fanmingming.com/tv/重庆时尚生活.png" group-title="卫视高清",重庆时尚生活
+#EXTINF:-1 tvg-id="1" tvg-name="重庆农村" tvg-logo="https://live.fanmingming.com/tv/重庆农村.png" group-title="卫视高清",重庆农村
+#EXTINF:-1 tvg-id="1" tvg-name="重庆移动" tvg-logo="https://live.fanmingming.com/tv/重庆移动.png" group-title="卫视高清",重庆移动
+#EXTINF:-1 tvg-id="1" tvg-name="汽摩" tvg-logo="https://live.fanmingming.com/tv/汽摩.png" group-title="卫视高清",汽摩
+#EXTINF:-1 tvg-id="1" tvg-name="重庆影视" tvg-logo="https://live.fanmingming.com/tv/重庆影视.png" group-title="卫视高清",重庆影视
+#EXTINF:-1 tvg-id="1" tvg-name="重庆新闻" tvg-logo="https://live.fanmingming.com/tv/重庆新闻.png" group-title="卫视高清",重庆新闻
+#EXTINF:-1 tvg-id="1" tvg-name="重庆社会与法" tvg-logo="https://live.fanmingming.com/tv/重庆社会与法.png" group-title="卫视高清",重庆社会与法
+#EXTINF:-1 tvg-id="1" tvg-name="重庆少儿" tvg-logo="https://live.fanmingming.com/tv/重庆少儿.png" group-title="卫视高清",重庆少儿
+#EXTINF:-1 tvg-id="1" tvg-name="重庆科教" tvg-logo="https://live.fanmingming.com/tv/重庆科教.png" group-title="卫视高清",重庆科教
+#EXTINF:-1 tvg-id="1" tvg-name="重庆娱乐" tvg-logo="https://live.fanmingming.com/tv/重庆娱乐.png" group-title="卫视高清",重庆娱乐
+#EXTINF:-1 tvg-id="1" tvg-name="重庆时尚生活" tvg-logo="https://live.fanmingming.com/tv/重庆时尚生活.png" group-title="卫视高清",重庆时尚生活
+#EXTINF:-1 tvg-id="1" tvg-name="重庆农村" tvg-logo="https://live.fanmingming.com/tv/重庆农村.png" group-title="卫视高清",重庆农村
+#EXTINF:-1 tvg-id="1" tvg-name="重庆移动" tvg-logo="https://live.fanmingming.com/tv/重庆移动.png" group-title="卫视高清",重庆移动
+#EXTINF:-1 tvg-id="1" tvg-name="汽摩" tvg-logo="https://live.fanmingming.com/tv/汽摩.png" group-title="卫视高清",汽摩
+#EXTINF:-1 tvg-id="1" tvg-name="重庆影视" tvg-logo="https://live.fanmingming.com/tv/重庆影视.png" group-title="卫视高清",重庆影视
+#EXTINF:-1 tvg-id="1" tvg-name="重庆新闻" tvg-logo="https://live.fanmingming.com/tv/重庆新闻.png" group-title="卫视高清",重庆新闻
+#EXTINF:-1 tvg-id="1" tvg-name="重庆社会与法" tvg-logo="https://live.fanmingming.com/tv/重庆社会与法.png" group-title="卫视高清",重庆社会与法
+#EXTINF:-1 tvg-id="1" tvg-name="重庆少儿" tvg-logo="https://live.fanmingming.com/tv/重庆少儿.png" group-title="卫视高清",重庆少儿
+#EXTINF:-1 tvg-id="1" tvg-name="重庆科教" tvg-logo="https://live.fanmingming.com/tv/重庆科教.png" group-title="卫视高清",重庆科教
+#EXTINF:-1 tvg-id="1" tvg-name="重庆娱乐" tvg-logo="https://live.fanmingming.com/tv/重庆娱乐.png" group-title="卫视高清",重庆娱乐
+#EXTINF:-1 tvg-id="1" tvg-name="重庆时尚生活" tvg-logo="https://live.fanmingming.com/tv/重庆时尚生活.png" group-title="卫视高清",重庆时尚生活
+#EXTINF:-1 tvg-id="1" tvg-name="重庆农村" tvg-logo="https://live.fanmingming.com/tv/重庆农村.png" group-title="卫视高清",重庆农村
+#EXTINF:-1 tvg-id="1" tvg-name="重庆移动" tvg-logo="https://live.fanmingming.com/tv/重庆移动.png" group-title="卫视高清",重庆移动
+#EXTINF:-1 tvg-id="1" tvg-name="汽摩" tvg-logo="https://live.fanmingming.com/tv/汽摩.png" group-title="卫视高清",汽摩
+#EXTINF:-1 tvg-id="1" tvg-name="重庆影视" tvg-logo="https://live.fanmingming.com/tv/重庆影视.png" group-title="卫视高清",重庆影视
+#EXTINF:-1 tvg-id="1" tvg-name="重庆新闻" tvg-logo="https://live.fanmingming.com/tv/重庆新闻.png" group-title="卫视高清",重庆新闻
+#EXTINF:-1 tvg-id="1" tvg-name="重庆社会与法" tvg-logo="https://live.fanmingming.com/tv/重庆社会与法.png" group-title="卫视高清",重庆社会与法
+#EXTINF:-1 tvg-id="1" tvg-name="重庆少儿" tvg-logo="https://live.fanmingming.com/tv/重庆少儿.png" group-title="卫视高清",重庆少儿
+#EXTINF:-1 tvg-id="1" tvg-name="重庆科教" tvg-logo="https://live.fanmingming.com/tv/重庆科教.png" group-title="卫视高清",重庆科教
+#EXTINF:-1 tvg-id="1" tvg-name="重庆娱乐" tvg-logo="https://live.fanmingming.com/tv/重庆娱乐.png" group-title="卫视高清",重庆娱乐
+#EXTINF:-1 tvg-id="1" tvg-name="重庆时尚生活" tvg-logo="https://live.fanmingming.com/tv/重庆时尚生活.png" group-title="卫视高清",重庆时尚生活
+#EXTINF:-1 tvg-id="1" tvg-name="重庆农村" tvg-logo="https://live.fanmingming.com/tv/重庆农村.png" group-title="卫视高清",重庆农村
+#EXTINF:-1 tvg-id="1" tvg-name="重庆移动" tvg-logo="https://live.fanmingming.com/tv/重庆移动.png" group-title="卫视高清",重庆移动
+#EXTINF:-1 tvg-id="1" tvg-name="汽摩" tvg-logo="https://live.fanmingming.com/tv/汽摩.png" group-title="卫视高清",汽摩
